@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Recommended RSS Feeds for Very Internet Persons</title>
+  </head>
+  <body>
+    <outline text="kottke" title="Kottke" type="rss" xmlUrl="http://feeds.kottke.org/main" htmlUrl="https://kottke.org/"/>
+    <outline text="Waxy" title="Waxy" type="rss" xmlUrl="https://waxy.org/feed/" htmlUrl="https://waxy.org/"/>
+    <outline text="oliSUNvia" title="oliSUNvia" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVHxJghKAB_kA_5LMM8MD3w" htmlUrl="https://www.youtube.com/@oliSUNvia"/>
+    <outline text="Garbage Day" title="Garbage Day" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/99VTTjt0N1.xml" htmlUrl="https://www.garbageday.email/"/>
+    <outline text="Scripting News" title="Scripting News" type="rss" xmlUrl="http://scripting.com/rss.xml" htmlUrl="http://scripting.com/"/>
+    <outline text="elle" title="elle" type="rss" xmlUrl="https://mirror.xyz/riotgoools.eth/feed/atom" htmlUrl="https://mirror.xyz/riotgoools.eth/"/>
+  </body>
+</opml>
