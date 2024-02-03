@@ -10,5 +10,6 @@
     <outline text="Garbage Day" title="Garbage Day" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/99VTTjt0N1.xml" htmlUrl="https://www.garbageday.email/"/>
     <outline text="Scripting News" title="Scripting News" type="rss" xmlUrl="http://scripting.com/rss.xml" htmlUrl="http://scripting.com/"/>
     <outline text="elle" title="elle" type="rss" xmlUrl="https://mirror.xyz/riotgoools.eth/feed/atom" htmlUrl="https://mirror.xyz/riotgoools.eth/"/>
+    <outline text="Do Not Research" title="Do Not Research" type="rss" xmlUrl="https://donotresearch.substack.com/feed" htmlUrl="https://donotresearch.substack.com/"/>
   </body>
 </opml>
