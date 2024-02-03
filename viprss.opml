@@ -11,5 +11,15 @@
     <outline text="Scripting News" title="Scripting News" type="rss" xmlUrl="http://scripting.com/rss.xml" htmlUrl="http://scripting.com/"/>
     <outline text="elle" title="elle" type="rss" xmlUrl="https://mirror.xyz/riotgoools.eth/feed/atom" htmlUrl="https://mirror.xyz/riotgoools.eth/"/>
     <outline text="Do Not Research" title="Do Not Research" type="rss" xmlUrl="https://donotresearch.substack.com/feed" htmlUrl="https://donotresearch.substack.com/"/>
-  </body>
+    <outline text="micro.brad" title="micro.brad" type="rss" xmlUrl="https://micro.bradbarrish.com/feed.xml" htmlUrl="https://micro.bradbarrish.com/"/>
+    <outline text="Brad Barrish" title="Brad Barrish" type="rss" xmlUrl="https://bradbarrish.com/feed/" htmlUrl="https://bradbarrish.com/"/>
+    <outline text="Craig Mod" title="Craig Mod" type="rss" xmlUrl="https://craigmod.com/index.xml" htmlUrl="https://craigmod.com/"/>
+    <outline text="Derek Sivers" title="Derek Sivers" type="rss" xmlUrl="https://sivers.org/en.atom" htmlUrl="https://sivers.org/"/>
+    <outline text="Marginal Revolution" title="Marginal Revolution" type="rss" xmlUrl="http://feeds.feedburner.com/marginalrevolution/feed" htmlUrl="http://feeds.feedburner.com/marginalrevolution/"/>
+    <outline text="Mark Ghuneim" title="Mark Ghuneim" type="rss" xmlUrl="https://ghuneim.com/feed/" htmlUrl="https://ghuneim.com/"/>
+    <outline text="Om Malik" title="Om Malik" type="rss" xmlUrl="https://om.co/feed/" htmlUrl="https://om.co/"/>
+    <outline text="USV Blog" title="http://www.usv.com/feed" type="rss" xmlUrl="http://www.usv.com/feed" htmlUrl="http://www.usv.com/"/>
+    <outline text="The Marginalian" title="The Marginalian" type="rss" xmlUrl="https://feeds.feedburner.com/brainpickings/rss" htmlUrl="https://www.themarginalian.org/"/>
+    <outline text="Best of MetaFilter" title="Best of MetaFilter" type="rss" xmlUrl="https://rss.metafilter.com/bestof.rss" htmlUrl="metafilter.com"/>  
+</body>
 </opml>
