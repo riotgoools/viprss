@@ -11,4 +11,6 @@ jobs:
     steps:
       - name: FeedsFetcher
         uses: llun/feeds@2.6
-            
+with:
+  opmlFile: feeds.opml
+  
