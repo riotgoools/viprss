@@ -16,5 +16,6 @@ jobs:
         uses: llun/feeds@2.6
         with:
           storageType: files
+          customDomain: feeds.llun.dev
           opmlFile: feeds.opml
   
