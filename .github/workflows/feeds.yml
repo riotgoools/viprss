@@ -16,6 +16,6 @@ jobs:
         uses: llun/feeds@2.6
         with:
           storageType: files
-          customDomain: feeds.llun.dev
+          customDomain: rss.veryinter.net
           opmlFile: feeds.opml
   
