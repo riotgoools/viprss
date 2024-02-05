@@ -1,7 +1,11 @@
 name: VIP RSS
 
-schedule:
-    - cron: "0 * * * *"
+on:
+  push:
+    branches:
+      - main
+    schedule:
+        - cron: "0 * * * *"
 
 jobs:
   feeds:
