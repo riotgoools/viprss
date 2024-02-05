@@ -1,11 +1,11 @@
-name: VIP RSS
+name: Feeds
 
 on:
   push:
     branches:
       - main
-    schedule:
-        - cron: "0 * * * *"
+  schedule:
+    - cron: "0 * * * *"
 
 jobs:
   feeds:
@@ -17,5 +17,3 @@ jobs:
         with:
           storageType: files
           customDomain: rss.veryinter.net
-          opmlFile: feeds.opml
-  
