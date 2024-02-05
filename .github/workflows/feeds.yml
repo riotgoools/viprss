@@ -17,5 +17,5 @@ jobs:
         with:
           storageType: files
           customDomain: rss.veryinter.net
-          opmlFile: viprss.opml
+          opmlFile: feeds.opml
   
