@@ -21,5 +21,6 @@
     <outline text="USV Blog" title="http://www.usv.com/feed" type="rss" xmlUrl="http://www.usv.com/feed" htmlUrl="http://www.usv.com/"/>
     <outline text="The Marginalian" title="The Marginalian" type="rss" xmlUrl="https://feeds.feedburner.com/brainpickings/rss" htmlUrl="https://www.themarginalian.org/"/>
     <outline text="Best of MetaFilter" title="Best of MetaFilter" type="rss" xmlUrl="https://rss.metafilter.com/bestof.rss" htmlUrl="metafilter.com"/>  
+    <outline text="socialinter.net" title="socialinter.net" type="rss" xmlUrl="https://www.are.na/uncle-davo/socialinter-net/feed/rss" htmlUrl="https://www.are.na/uncle-davo/socialinter-net"/>  
 </body>
 </opml>
