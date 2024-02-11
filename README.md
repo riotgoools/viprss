@@ -13,3 +13,5 @@ Feel free to edit the feeds.opml file to add things that you think should be inc
 3. Copy one of the outline tags and paste it in at the end of the list
 4. Replace the fields with info for the feed you want to add &#40;text/title, rss url, website url&#41;
 5. Open a pull request to merge your changes into the main repo
+
+Come talk about the internet with fellow [vips on warpcast](https://warpcast.com/~/channel/vip)
