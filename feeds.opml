@@ -4,27 +4,29 @@
     <title>Recommended RSS Feeds for Very Internet Persons</title>
   </head>
   <body>
-    <outline text="kottke" title="Kottke" type="rss" xmlUrl="http://feeds.kottke.org/main" htmlUrl="https://kottke.org/"/>
-    <outline text="Waxy" title="Waxy" type="rss" xmlUrl="https://waxy.org/feed/" htmlUrl="https://waxy.org/"/>
-    <outline text="oliSUNvia" title="oliSUNvia" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVHxJghKAB_kA_5LMM8MD3w" htmlUrl="https://www.youtube.com/@oliSUNvia"/>
-    <outline text="Garbage Day" title="Garbage Day" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/99VTTjt0N1.xml" htmlUrl="https://www.garbageday.email/"/>
-    <outline text="Scripting News" title="Scripting News" type="rss" xmlUrl="http://scripting.com/rss.xml" htmlUrl="http://scripting.com/"/>
-    <outline text="elle" title="elle" type="rss" xmlUrl="https://mirror.xyz/riotgoools.eth/feed/atom" htmlUrl="https://mirror.xyz/riotgoools.eth/"/>
-    <outline text="Do Not Research" title="Do Not Research" type="rss" xmlUrl="https://donotresearch.substack.com/feed" htmlUrl="https://donotresearch.substack.com/"/>
-    <outline text="micro.brad" title="micro.brad" type="rss" xmlUrl="https://micro.bradbarrish.com/feed.xml" htmlUrl="https://micro.bradbarrish.com/"/>
-    <outline text="Brad Barrish" title="Brad Barrish" type="rss" xmlUrl="https://bradbarrish.com/feed/" htmlUrl="https://bradbarrish.com/"/>
-    <outline text="Craig Mod" title="Craig Mod" type="rss" xmlUrl="https://craigmod.com/index.xml" htmlUrl="https://craigmod.com/"/>
-    <outline text="Derek Sivers" title="Derek Sivers" type="rss" xmlUrl="https://sivers.org/en.atom" htmlUrl="https://sivers.org/"/>
-    <outline text="Marginal Revolution" title="Marginal Revolution" type="rss" xmlUrl="http://feeds.feedburner.com/marginalrevolution/feed" htmlUrl="http://feeds.feedburner.com/marginalrevolution/"/>
-    <outline text="Mark Ghuneim" title="Mark Ghuneim" type="rss" xmlUrl="https://ghuneim.com/feed/" htmlUrl="https://ghuneim.com/"/>
-    <outline text="Om Malik" title="Om Malik" type="rss" xmlUrl="https://om.co/feed/" htmlUrl="https://om.co/"/>
-    <outline text="USV Blog" title="http://www.usv.com/feed" type="rss" xmlUrl="http://www.usv.com/feed" htmlUrl="http://www.usv.com/"/>
-    <outline text="The Marginalian" title="The Marginalian" type="rss" xmlUrl="https://feeds.feedburner.com/brainpickings/rss" htmlUrl="https://www.themarginalian.org/"/>
-    <outline text="Best of MetaFilter" title="Best of MetaFilter" type="rss" xmlUrl="https://rss.metafilter.com/bestof.rss" htmlUrl="metafilter.com"/>  
-    <outline text="socialinter.net" title="socialinter.net" type="rss" xmlUrl="https://www.are.na/uncle-davo/socialinter-net/feed/rss" htmlUrl="https://www.are.na/uncle-davo/socialinter-net"/>  
-    <outline text="Chia's Blog" title="Chia's Blog" type="rss" xmlUrl="https://chias.blog/feed/" htmlUrl="https://chias.blog"/>  
-    <outline text="elle's homepage" title="elle's homepage" type="rss" xmlUrl="https://ellesho.me/page/rss.xml" htmlUrl="https://ellesho.me/page/website"/>  
-    <outline text="kening zhu" title="kening zhu" type="rss" xmlUrl="https://keningzhu.com/journal?format=rss" htmlUrl="https://keningzhu.com/journal"/>  
-    <outline text="the webb blog" title="the webb blog" type="atom" xmlUrl="https://blog.webb.page/feed/atom" htmlUrl="https://blog.webb.page"/>  
+    <outline text="Sites" title="Sites">
+      <outline text="kottke" title="Kottke" type="rss" xmlUrl="http://feeds.kottke.org/main" htmlUrl="https://kottke.org/"/>
+      <outline text="Waxy" title="Waxy" type="rss" xmlUrl="https://waxy.org/feed/" htmlUrl="https://waxy.org/"/>
+      <outline text="oliSUNvia" title="oliSUNvia" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVHxJghKAB_kA_5LMM8MD3w" htmlUrl="https://www.youtube.com/@oliSUNvia"/>
+      <outline text="Garbage Day" title="Garbage Day" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/99VTTjt0N1.xml" htmlUrl="https://www.garbageday.email/"/>
+      <outline text="Scripting News" title="Scripting News" type="rss" xmlUrl="http://scripting.com/rss.xml" htmlUrl="http://scripting.com/"/>
+      <outline text="elle" title="elle" type="rss" xmlUrl="https://mirror.xyz/riotgoools.eth/feed/atom" htmlUrl="https://mirror.xyz/riotgoools.eth/"/>
+      <outline text="Do Not Research" title="Do Not Research" type="rss" xmlUrl="https://donotresearch.substack.com/feed" htmlUrl="https://donotresearch.substack.com/"/>
+      <outline text="micro.brad" title="micro.brad" type="rss" xmlUrl="https://micro.bradbarrish.com/feed.xml" htmlUrl="https://micro.bradbarrish.com/"/>
+      <outline text="Brad Barrish" title="Brad Barrish" type="rss" xmlUrl="https://bradbarrish.com/feed/" htmlUrl="https://bradbarrish.com/"/>
+      <outline text="Craig Mod" title="Craig Mod" type="rss" xmlUrl="https://craigmod.com/index.xml" htmlUrl="https://craigmod.com/"/>
+      <outline text="Derek Sivers" title="Derek Sivers" type="rss" xmlUrl="https://sivers.org/en.atom" htmlUrl="https://sivers.org/"/>
+      <outline text="Marginal Revolution" title="Marginal Revolution" type="rss" xmlUrl="http://feeds.feedburner.com/marginalrevolution/feed" htmlUrl="http://feeds.feedburner.com/marginalrevolution/"/>
+      <outline text="Mark Ghuneim" title="Mark Ghuneim" type="rss" xmlUrl="https://ghuneim.com/feed/" htmlUrl="https://ghuneim.com/"/>
+      <outline text="Om Malik" title="Om Malik" type="rss" xmlUrl="https://om.co/feed/" htmlUrl="https://om.co/"/>
+      <outline text="USV Blog" title="http://www.usv.com/feed" type="rss" xmlUrl="http://www.usv.com/feed" htmlUrl="http://www.usv.com/"/>
+      <outline text="The Marginalian" title="The Marginalian" type="rss" xmlUrl="https://feeds.feedburner.com/brainpickings/rss" htmlUrl="https://www.themarginalian.org/"/>
+      <outline text="Best of MetaFilter" title="Best of MetaFilter" type="rss" xmlUrl="https://rss.metafilter.com/bestof.rss" htmlUrl="metafilter.com"/>  
+      <outline text="socialinter.net" title="socialinter.net" type="rss" xmlUrl="https://www.are.na/uncle-davo/socialinter-net/feed/rss" htmlUrl="https://www.are.na/uncle-davo/socialinter-net"/>  
+      <outline text="Chia's Blog" title="Chia's Blog" type="rss" xmlUrl="https://chias.blog/feed/" htmlUrl="https://chias.blog"/>  
+      <outline text="elle's homepage" title="elle's homepage" type="rss" xmlUrl="https://ellesho.me/page/rss.xml" htmlUrl="https://ellesho.me/page/website"/>  
+      <outline text="kening zhu" title="kening zhu" type="rss" xmlUrl="https://keningzhu.com/journal?format=rss" htmlUrl="https://keningzhu.com/journal"/>  
+      <outline text="the webb blog" title="the webb blog" type="atom" xmlUrl="https://blog.webb.page/feed/atom" htmlUrl="https://blog.webb.page"/>
+    </outline>
 </body>
 </opml>
