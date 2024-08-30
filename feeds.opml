@@ -22,11 +22,11 @@
       <outline text="USV Blog" title="http://www.usv.com/feed" type="rss" xmlUrl="http://www.usv.com/feed" htmlUrl="http://www.usv.com/"/>
       <outline text="The Marginalian" title="The Marginalian" type="rss" xmlUrl="https://feeds.feedburner.com/brainpickings/rss" htmlUrl="https://www.themarginalian.org/"/>
       <outline text="Best of MetaFilter" title="Best of MetaFilter" type="rss" xmlUrl="https://rss.metafilter.com/bestof.rss" htmlUrl="metafilter.com"/>  
-      <outline text="socialinter.net" title="socialinter.net" type="rss" xmlUrl="https://www.are.na/uncle-davo/socialinter-net/feed/rss" htmlUrl="https://www.are.na/uncle-davo/socialinter-net"/>  
       <outline text="Chia's Blog" title="Chia's Blog" type="rss" xmlUrl="https://chias.blog/feed/" htmlUrl="https://chias.blog"/>  
       <outline text="elle's homepage" title="elle's homepage" type="rss" xmlUrl="https://ellesho.me/page/rss.xml" htmlUrl="https://ellesho.me/page/website"/>  
       <outline text="kening zhu" title="kening zhu" type="rss" xmlUrl="https://keningzhu.com/journal?format=rss" htmlUrl="https://keningzhu.com/journal"/>  
       <outline text="the webb blog" title="the webb blog" type="atom" xmlUrl="https://blog.webb.page/feed/atom" htmlUrl="https://blog.webb.page"/>
+      <outline text="socialinter.net" title="socialinter.net" type="rss" xmlUrl="https://www.are.na/uncle-davo/socialinter-net/feed/rss" htmlUrl="https://www.are.na/uncle-davo/socialinter-net"/>  
     </outline>
 </body>
 </opml>
