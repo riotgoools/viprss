@@ -19,7 +19,7 @@
       <outline text="Marginal Revolution" title="Marginal Revolution" type="rss" xmlUrl="http://feeds.feedburner.com/marginalrevolution/feed" htmlUrl="http://feeds.feedburner.com/marginalrevolution/"/>
       <outline text="Mark Ghuneim" title="Mark Ghuneim" type="rss" xmlUrl="https://ghuneim.com/feed/" htmlUrl="https://ghuneim.com/"/>
       <outline text="Om Malik" title="Om Malik" type="rss" xmlUrl="https://om.co/feed/" htmlUrl="https://om.co/"/>
-      <outline text="USV Blog" title="http://www.usv.com/feed" type="rss" xmlUrl="http://www.usv.com/feed" htmlUrl="http://www.usv.com/"/>
+      <outline text="USV Blog" title="USV Blog" type="rss" xmlUrl="http://www.usv.com/feed" htmlUrl="http://www.usv.com/"/>
       <outline text="The Marginalian" title="The Marginalian" type="rss" xmlUrl="https://feeds.feedburner.com/brainpickings/rss" htmlUrl="https://www.themarginalian.org/"/>
       <outline text="Best of MetaFilter" title="Best of MetaFilter" type="rss" xmlUrl="https://rss.metafilter.com/bestof.rss" htmlUrl="metafilter.com"/>  
       <outline text="Chia's Blog" title="Chia's Blog" type="rss" xmlUrl="https://chias.blog/feed/" htmlUrl="https://chias.blog"/>  
@@ -28,6 +28,7 @@
       <outline text="the webb blog" title="the webb blog" type="rss" xmlUrl="https://blog.webb.page/feed/rss" htmlUrl="https://blog.webb.page"/>
       <outline text="socialinter.net" title="socialinter.net" type="rss" xmlUrl="https://www.are.na/uncle-davo/socialinter-net/feed/rss" htmlUrl="https://www.are.na/uncle-davo/socialinter-net"/>  
       <outline text="usermag.co" title="usermag.co" type="rss" xmlUrl="https://www.usermag.co/feed" htmlUrl="https://www.usermag.co"/>
+      <outline text="Interconnected" title="Interconnected" type="rss" xmlUrl="https://interconnected.org/home/feed" htmlUrl="https://interconnected.org"/>
     </outline>
 </body>
 </opml>
