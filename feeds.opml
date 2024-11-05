@@ -27,6 +27,7 @@
       <outline text="kening zhu" title="kening zhu" type="rss" xmlUrl="https://keningzhu.com/journal?format=rss" htmlUrl="https://keningzhu.com/journal"/>  
       <outline text="the webb blog" title="the webb blog" type="rss" xmlUrl="https://blog.webb.page/feed/rss" htmlUrl="https://blog.webb.page"/>
       <outline text="socialinter.net" title="socialinter.net" type="rss" xmlUrl="https://www.are.na/uncle-davo/socialinter-net/feed/rss" htmlUrl="https://www.are.na/uncle-davo/socialinter-net"/>  
+      <outline text="usermag.co" title="usermag.co" type="rss" xmlUrl="https://www.usermag.co/feed" htmlUrl="https://www.usermag.co"/>
     </outline>
 </body>
 </opml>
