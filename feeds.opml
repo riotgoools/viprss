@@ -8,7 +8,7 @@
       <outline text="kottke" title="Kottke" type="rss" xmlUrl="http://feeds.kottke.org/main" htmlUrl="https://kottke.org/"/>
       <outline text="Waxy" title="Waxy" type="rss" xmlUrl="https://waxy.org/feed/" htmlUrl="https://waxy.org/"/>
       <outline text="oliSUNvia" title="oliSUNvia" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVHxJghKAB_kA_5LMM8MD3w" htmlUrl="https://www.youtube.com/@oliSUNvia"/>
-      <outline text="Garbage Day" title="Garbage Day" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/99VTTjt0N1.xml" htmlUrl="https://www.garbageday.email/"/>
+      <outline text="Garbage Day" title="Garbage Day" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/owMwaGYU36.xml" htmlUrl="https://www.garbageday.email/"/>
       <outline text="Scripting News" title="Scripting News" type="rss" xmlUrl="http://scripting.com/rss.xml" htmlUrl="http://scripting.com/"/>
       <outline text="elle" title="elle" type="rss" xmlUrl="https://mirror.xyz/riotgoools.eth/feed/atom" htmlUrl="https://mirror.xyz/riotgoools.eth/"/>
       <outline text="Do Not Research" title="Do Not Research" type="rss" xmlUrl="https://donotresearch.substack.com/feed" htmlUrl="https://donotresearch.substack.com/"/>
@@ -25,7 +25,7 @@
       <outline text="Chia's Blog" title="Chia's Blog" type="rss" xmlUrl="https://chias.blog/feed/" htmlUrl="https://chias.blog"/>  
       <outline text="elle's homepage" title="elle's homepage" type="rss" xmlUrl="https://ellesho.me/page/rss.xml" htmlUrl="https://ellesho.me/page/website"/>  
       <outline text="kening zhu" title="kening zhu" type="rss" xmlUrl="https://keningzhu.com/journal?format=rss" htmlUrl="https://keningzhu.com/journal"/>  
-      <outline text="the webb blog" title="the webb blog" type="atom" xmlUrl="https://blog.webb.page/feed/atom" htmlUrl="https://blog.webb.page"/>
+      <outline text="the webb blog" title="the webb blog" type="rss" xmlUrl="https://blog.webb.page/feed/rss" htmlUrl="https://blog.webb.page"/>
       <outline text="socialinter.net" title="socialinter.net" type="rss" xmlUrl="https://www.are.na/uncle-davo/socialinter-net/feed/rss" htmlUrl="https://www.are.na/uncle-davo/socialinter-net"/>  
     </outline>
 </body>
