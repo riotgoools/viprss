@@ -29,6 +29,7 @@
       <outline text="socialinter.net" title="socialinter.net" type="rss" xmlUrl="https://www.are.na/uncle-davo/socialinter-net/feed/rss" htmlUrl="https://www.are.na/uncle-davo/socialinter-net"/>  
       <outline text="usermag.co" title="usermag.co" type="rss" xmlUrl="https://www.usermag.co/feed" htmlUrl="https://www.usermag.co"/>
       <outline text="Interconnected" title="Interconnected" type="rss" xmlUrl="https://interconnected.org/home/feed" htmlUrl="https://interconnected.org"/>
+      <outline text="Joho no Todai (English)" title="Joho no Todai (English)" type="rss" xmlUrl="https://joho-todai.com/en/rss/" htmlUrl="https://joho-todai.com/en/"/>
     </outline>
 </body>
 </opml>
